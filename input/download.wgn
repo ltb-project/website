@@ -1,0 +1,182 @@
+title: Download
+----
+
+                <!-- Wrapper -->
+                    <section id="wrapper">
+                        <header>
+                            <div class="inner">
+                                <h2>Download</h2>
+                            </div>
+                        </header>
+
+                        <!-- Content -->
+                            <div class="wrapper">
+                                <div class="inner">
+
+                                    <section>
+                                        <h3 class="major" id="openldap">OpenLDAP</h3>
+                                        <p>On this page, you will find only links for latest version. Find all versions in the <a href="archives/">archives</a>.</p>
+
+                                        <h4 id="packages_for_debianubuntu">Packages for Debian/Ubuntu</h4>
+                                        <p><em>Read <a href="documentation/">documentation</a> to use LTB project apt repository</em></p>
+
+                                        <h5>Stretch (Debian 9)</h5>
+                                        <div class="table-wrapper">
+                                            <table> 
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.4</th>
+                                                        <th>2.5</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.4.59-stretch-64.tar.gz">2.4.59</a></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td><a href="archives/berkeleydb-ltb-4.6.21-stretch-64.tar.gz">BerkeleyDB 4.6.21</a></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table> 
+                                        </div>
+
+                                        <h5>Buster (Debian 10)</h5>
+                                        <div class="table-wrapper">
+                                            <table> 
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.4</th>
+                                                        <th>2.5</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.4.59-buster-64.tar.gz">2.4.59</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.9-buster-64.tar.gz">2.5.9</a></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td><a href="archives/berkeleydb-ltb-2.4.47-buster-testing-64.tar.gz">BerkeleyDB 4.6.21</a></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <h5>Bullseye (Debian 11)</h5>
+                                        <div class="table-wrapper">
+                                            <table> 
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.4</th>
+                                                        <th>2.5</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.9-bullseye-64.tar.gz">2.5.9</a></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <h4 id="packages_for_red_hatcentos">Packages for Packages for Red Hat/CentOS</h4>
+                                        <p><em>Read <a href="documentation/">documentation</a> to use LTB project yum repository</em></p>
+
+                                        <h5>CentOS/RHEL 7</h5>
+                                        <div class="table-wrapper">
+                                            <table> 
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.4</th>
+                                                        <th>2.5</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.4.59-el7-64.tar.gz">2.4.59</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.9-el7.tar.gz">2.5.9</a></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td><a href="archives/berkeleydb-ltb-4.6.21.NC-4.el7.patch4.x86_64.rpm">BerkeleyDB 4.6.21</a></td>
+                                                        <td><a href="archives/libevent-ltb-2.1.12-1.el7.x86_64.rpm">libevent 2.1.12</a></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table> 
+                                        </div>
+ 
+                                        <h5>CentOS/RHEL 8</h5>
+                                        <div class="table-wrapper">
+                                            <table> 
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.4</th>
+                                                        <th>2.5</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.4.59-el8-64.tar.gz">2.4.59</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.9-el8.tar.gz">2.5.9</a></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td><a href="archives/berkeleydb-ltb-4.6.21.NC-4-el8-64.tar.gz">BerkeleyDB 4.6.21</a></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table> 
+                                        </div>
+
+                                    <h4>Slapd CLI</h4>
+                                    <ul>
+                                        <li>Slapd CLI: <a href="archives/slapd-cli-2.8.tar.gz">version 2.8</a></li>
+                                    </ul>
+
+                                    </section>
+
+                                    <section>
+                                        <h3 class="major" id="monitoring">Monitoring</h3>
+                                        <ul>
+                                            <li>Nagios plugins: <a href="archives/ltb-project-nagios-plugins-0.8.tar.gz">version 0.8</a></li>
+                                            <li>Cacti plugins: <a href="archives/ltb-project-cacti-plugins-0.3.tar.gz">version 0.3</a></li>
+                                        </ul>
+
+                                    </section>
+
+                    </section>
