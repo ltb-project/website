@@ -1,0 +1,76 @@
+title: Contact
+----
+
+                <!-- Wrapper -->
+                    <section id="wrapper">
+                        <header>
+                            <div class="inner">
+                                <h2>Contact</h2>
+                            </div>
+                        </header>
+
+                        <!-- Content -->
+                            <div class="wrapper">
+                                <div class="inner">
+
+                                    <h3 class="major">Mailing lists</h3>
+                                    <p>Mailing lists are available on <a href="https://mail.ow2.org/wws" target="_blank">OW2 Sympa server</a>. Subscription is <strong>mandatory</strong> to be allowed to post.</p>
+                                    <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th>Name</th>
+                                                        <th>Description</th>
+                                                        <th></th>
+                                                        <th></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td><a href="https://mail.ow2.org/wws/info/ltb-users" target="_blank">ltb-users</a></td>
+                                                        <td>General discussions and help for LDAP Tool Box (LTB)</td>
+                                                        <td><a href="https://mail.ow2.org/wws/subscribe/ltb-users" target="_blank" class="button small primary icon fa-check-square">Subscribe</a></td>
+                                                        <td><a href="https://mail.ow2.org/wws/arc/ltb-users/" target="_blank" class="button small icon fa-eye">Archives</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="https://mail.ow2.org/wws/info/ltb-dev" target="_blank">ltb-dev</a></td>
+                                                        <td>Development and project discussions about LDAP Tool Box (LTB)</td>
+                                                        <td><a href="https://mail.ow2.org/wws/subscribe/ltb-dev" target="_blank" class="button small primary icon fa-check-square">Subscribe</a></td>
+                                                        <td><a href="https://mail.ow2.org/wws/arc/ltb-dev/" target="_blank" class="button small icon fa-eye">Archives</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="https://mail.ow2.org/wws/info/ltb-announces" target="_blank">ltb-announces</a></td>
+                                                        <td>Announcements about LDAP Tool Box (LTB)</td>
+                                                        <td><a href="https://mail.ow2.org/wws/subscribe/ltb-announces" target="_blank" class="button small primary icon fa-check-square">Subscribe</a></td>
+                                                        <td><a href="https://mail.ow2.org/wws/arc/ltb-announces/" target="_blank" class="button small icon fa-eye">Archives</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="https://mail.ow2.org/wws/info/ltb-changes" target="_blank">ltb-changes</a></td>
+                                                        <td>A commit-list that receives all updates to the code and the documentation for LDAP Tool Box (LTB)</td>
+                                                        <td><a href="https://mail.ow2.org/wws/subscribe/ltb-changes" target="_blank" class="button small primary icon fa-check-square">Subscribe</a></td>
+                                                        <td><a href="https://mail.ow2.org/wws/arc/ltb-changes/" target="_blank" class="button small icon fa-eye">Archives</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                    <h3 class="major">Report a bug</h3>
+                                    <p>Go on our <a href="https://github.com/ltb-project/" target="_blank">Github space</a>, find the corresponding projet (OpenLDAP RPM, Self Service Password, ...) and open an issue.</p>
+                                    <p>Please use the mailing lists for any question about the softwares.</p>
+                                    
+                                    <h3 class="major">Social networks</h3>
+                                    <ul class="contact">
+                                        <li class="icon brands fa-twitter"><a href="https://twitter.com/LTB_Project" target="_blank">twitter.com/LTB_Project</a></li>
+                                    </ul>
+
+                                    <h3 class="major">IRC</h3>
+                                    <p>Join us on <code>#ltb-project</code> on <a href="https://libera.chat/" target="_blank">Libera Chat</a>.
+
+                                    <h3 class="major">Professional services</h3>
+                                    <p>If you need a professional service or support, please contact one of the companies listed on <a href="professionalservices.html">the following page</a>.</p>
+
+                                </div>
+                            </div>
+
+                    </section>
+
