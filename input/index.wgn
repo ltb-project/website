@@ -1,3 +1,63 @@
-title: Welcome!
+title: Welcome
 ----
-<p>Welcome to my site.</p>
+
+                <!-- Banner -->
+                    <section id="banner">
+                        <div class="inner">
+                            <div class="logo"><img src="images/ltb-logo.png" alt="LTB logo" /></div>
+                            <h2>LDAP Tool Box project</h2>
+                            <p>Because even LDAP administrators need help</p>
+                        </div>
+                    </section>
+
+                <!-- Wrapper -->
+                    <section id="wrapper">
+
+                        <!-- One -->
+                            <section id="one" class="wrapper spotlight style1">
+                                <div class="inner">
+                                    <a href="#" class="image"><img src="images/ssp.png" alt="Self Service Password screenshot" /></a>
+                                    <div class="content">
+                                        <h2 class="major">Compilation of tools for LDAP administrators</h2>
+                                        <ul class="alt">
+                                            <li>OpenLDAP packages and extensions</li>
+                                            <li>Monitoring plugins</li>
+                                            <li>Web interfaces for password and account management</li>
+                                            <li>Howtos and scripts</li>
+                                        </ul>
+                                        <a href="documentation/" class="special">Read documentation</a>
+                                    </div>
+                                </div>
+                            </section>
+
+                        <!-- Two -->
+                            <section id="two" class="wrapper alt spotlight style2">
+                                <div class="inner">
+                                    <a href="#" class="image"><img src="images/help.jpg" alt="Help" /></a>
+                                    <div class="content">
+                                        <ul class="actions">
+                                            <li><a href="download.html" class="button primary icon solid fa-download">Download</a></li>
+                                            <li><a href="contact.html" class="button icon solid fa-envelope">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </section>
+
+                        <!-- Three -->
+                            <section id="three" class="wrapper spotlight style3">
+                                <div class="inner">
+                                    <a href="#" class="image"><img src="images/community.jpg" alt="Community" /></a>
+                                    <div class="content">
+                                        <h2 class="major">Community</h2>
+                                        <p><strong>Core team</strong> David COUTADEUR, Clément OUDOT</p>
+                                        <p><strong>Past contributors</strong> Thomas CHEMINEAU, Jonathan CLARKE, Raphaël OUAZANA</p>
+                                        <p>LTB project won <a href="https://www.ow2con.org/view/2021/Awards_Results" target="_blank">OW2Con'21 Community Award</a></p>
+                                        <ul class="actions">
+                                            <li><a href="https://projects.ow2.org/view/ldaptoolbox/" target="_blank" class="button icon solid fa-info-circle">View project on OW2</a></li>
+                                            <li><a href="https://github.com/ltb-project/" target="_blank" class="button primary icon solid fa-github">Contribute on Github</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </section>
+
+                    </section>
