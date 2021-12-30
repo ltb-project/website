@@ -179,4 +179,47 @@ title: Download
 
                                     </section>
 
+                                    <section>
+                                        <h3 class="major" id="web_interfaces">Web interfaces</h3>
+                                        <p><em>Read <a href="documentation/">documentation</a> to use LTB project apt and yum repository</em></p>
+
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>Sources</th>
+                                                        <th>Debian</th>
+                                                        <th>RPM EL7</th>
+                                                        <th>RPM EL8</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr id="self_service_password">
+                                                        <td>Self Service Password</td>
+                                                        <td><a href="archives/ltb-project-self-service-password-1.4.3.tar.gz">1.4.3</a></td>
+                                                        <td><a href="archives/self-service-password_1.4.3-1_all.deb">1.4.3</a></td>
+                                                        <td><a href="archives/self-service-password-1.4.3-1.el7.noarch.rpm">1.4.3</a></td>
+                                                        <td><a href="archives/self-service-password-1.4.3-1.el8.noarch.rpm">1.4.3</a></td>
+                                                    </tr>
+                                                    <tr id="white_pages">
+                                                        <td>White Pages</td>
+                                                        <td><a href="archives/ltb-project-white-pages-0.3.tar.gz">0.3</a></td>
+                                                        <td><a href="archives/white-pages_0.3-1_all.deb">0.3</a></td>
+                                                        <td><a href="archives/white-pages-0.3-1.el7.noarch.rpm">0.3</a></td>
+                                                        <td><a href="archives/white-pages-0.3-1.el8.noarch.rpm">0.3</a></td>
+                                                    </tr>
+                                                    <tr id="service_desk">
+                                                        <td>Service Desk</td>
+                                                        <td><a href="archives/ltb-project-service-desk-0.4.tar.gz">0.4</a></td>
+                                                        <td><a href="archives/service-desk_0.4-1_all.deb">0.4</a></td>
+                                                        <td><a href="archives/service-desk-0.4-1.el7.noarch.rpm">0.4</a></td>
+                                                        <td><a href="archives/service-desk-0.4-1.el8.noarch.rpm">0.4</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                    </section>
+
                     </section>
