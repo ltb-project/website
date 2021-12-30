@@ -1,0 +1,47 @@
+title: Profresionnal services
+----
+
+                <!-- Wrapper -->
+                    <section id="wrapper">
+                        <header>
+                            <div class="inner">
+                                <h2>Professional services</h2>
+                                <p>Companies providing services and support around LDAP Tool Box project.</p>
+                            </div>
+                        </header>
+
+                            <section id="rex_consulting" class="wrapper spotlight style1">
+                                <div class="inner">
+                                    <a href="http://www.rexconsulting.net/" target="_blank" class="image"><img src="images/community.jpg" alt="Rex consulting" /></a>
+                                    <div class="content">
+                                        <h2 class="major">Rex consulting</h2>
+                                        <p><a href="http://www.rexconsulting.net/" target="_blank">Rex consulting</a> provides services around monitoring, identity management and email security.</p>
+                                        <p>Get in touch: <a href="https://www.rexconsulting.net/contact" target="_blank">https://www.rexconsulting.net/contact</p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="worteks" class="wrapper alt spotlight style2">
+                                <div class="inner">
+                                    <a href="https://www.worteks.com" target="_blank" class="image"><img src="images/logo-worteks.png" alt="Worteks" /></a>
+                                    <div class="content">
+                                        <h2 class="major">Worteks</h2>
+                                        <p>With its decades of cumulative experience in the areas of free software and open source, <a href="https://www.worteks.com" target="_blank">Worteks</a> deploys its service in a market of expertise and innovation with large companies and administrations.</p>
+                                        <p><a href="https://www.worteks.com" target="_blank">Worteks</a> is the main contributor to LDAP Tool Box project.</p>
+                                        <p>Contact us: <a href="https://www.worteks.com/contact/" target="_blank">https://www.worteks.com/contact/</a></p>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="list" class="wrapper spotlight style3">
+                                <div class="inner">
+                                    <a href="#" class="image"><img src="images/help.jpg" alt="Help" /></a>
+                                    <div class="content">
+                                        <h2 class="major">How to be listed here?</h2>
+                                        <p>There is no fee or contract to appear on this page but you have a moral engagement to help the core team (answering to mailing list, reporting bugs, providing patches).</p>
+                                        <p>Interested? Please <a href="mailto:webmaster@ltb-project.org">contact us</a>!</p>
+                                    </div>
+                                </div>
+                            </section>
+
+                    </section>
