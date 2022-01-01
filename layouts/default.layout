@@ -18,7 +18,7 @@
             <div id="page-wrapper">
 
                 <!-- Header -->
-                    <header id="header" class="alt">
+                    <header id="header" class="<!-- tmpl_var name='header-class' -->">
                         <h1><a href="index.html">LDAP Tool Box</a></h1>
                         <nav>
                             <a href="#menu">Menu</a>
