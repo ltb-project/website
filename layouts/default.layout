@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-        <meta name="description" content="LDAP Tool Box project provide tools for LDAP administrators">
+        <meta name="description" content="LDAP Tool Box project provides tools for LDAP administrators">
         <meta name="keywords" content="LDAP,OpenLDAP,packages,scripts,monitoring,self service,password">
 
         <meta property="og:title" content="LDAP Tool Box - <!-- tmpl_var name='title' escape='html' -->" />
@@ -20,7 +20,7 @@
         <!-- tmpl_if name='og_description' -->
         <meta property="og:description" content="<!-- tmpl_var name='og_description' -->" />
         <!-- tmpl_else -->
-        <meta property="og:description" content="LDAP Tool Box project provide tools for LDAP administrators" />
+        <meta property="og:description" content="LDAP Tool Box project provides tools for LDAP administrators" />
         <!-- /tmpl_if -->
     </head>
     <body class="is-preload">
