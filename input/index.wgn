@@ -26,7 +26,7 @@ header-class: alt
                                             <li>Web interfaces for password and account management</li>
                                             <li>Howtos and scripts</li>
                                         </ul>
-                                        <a href="documentation/" class="special">Read documentation</a>
+                                        <a href="documentation/" target="_blank" class="special">Read documentation</a>
                                     </div>
                                 </div>
                             </section>
