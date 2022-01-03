@@ -59,13 +59,18 @@ og_description: Contact information for LDAP Tool Box project
                                     <p>Go on our <a href="https://github.com/ltb-project/" target="_blank">Github space</a>, find the corresponding projet (OpenLDAP RPM, Self Service Password, ...) and open an issue.</p>
                                     <p>Please use the mailing lists for any question about the softwares.</p>
                                     
-                                    <h3 class="major">Social networks</h3>
-                                    <ul class="contact">
-                                        <li class="icon brands fa-twitter"><a href="https://twitter.com/LTB_Project" target="_blank">twitter.com/LTB_Project</a></li>
+                                    <h3 class="major">Social networks and news</h3>
+                                    <ul class="alt">
+                                        <li class="icon brands fa-twitter"><a href="https://twitter.com/LTB_Project" target="_blank"> twitter.com/LTB_Project</a></li>
+                                        <li class="icon brands fa-globe"><a href="https://alternativeto.net/software/ldap-tool-box-self-service-password/about/" target="_blank"> AlternativeTo - Self Service Password</a></li>
+                                        <li class="icon brands fa-globe"><a href="https://alternativeto.net/software/ldap-tool-box-self-white-pages/about/" target="_blank"> AlternativeTo - White Pages</a></li>
+                                        <li class="icon brands fa-globe"><a href="https://comptoir-du-libre.org/fr/softwares/102" target="_blank"> Comptoir du Libre - Self Service Password</a></li>
+                                        <li class="icon brands fa-globe"><a href="https://comptoir-du-libre.org/fr/softwares/103" target="_blank"> Comptoir du Libre - White Pages</a></li>
+                                        <li class="icon brands fa-globe"><a href="https://comptoir-du-libre.org/fr/softwares/435" target="_blank"> Comptoir du Libre - Service Desk</a></li>
                                     </ul>
 
                                     <h3 class="major">IRC</h3>
-                                    <p>Join us on <code>#ltb-project</code> on <a href="https://libera.chat/" target="_blank">Libera Chat</a>.
+                                    <p>Join us on <code>#ltb-project</code> on <a href="https://libera.chat/" target="_blank">Libera Chat</a>.</p>
 
                                     <h3 class="major">Professional services</h3>
                                     <p>If you need a professional service or support, please contact one of the companies listed on <a href="professionalservices.html">the following page</a>.</p>
