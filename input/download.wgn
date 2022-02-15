@@ -169,6 +169,11 @@ og_description: Archives and packages for LDAP Tool Box components
                                         <li>Slapd CLI: <a href="archives/slapd-cli-2.8.tar.gz">version 2.8</a></li>
                                     </ul>
 
+                                    <h4>Ansible role for OpenLDAP-LTB</h4>
+                                    <ul>
+                                        <li>Ansible role: <a href="https://github.com/ltb-project/ansible-role-ldaptoolbox-openldap/archive/refs/tags/v1.0.tar.gz">version 1.0</a></li>
+                                    </ul>
+
                                     </section>
 
                                     <section>
