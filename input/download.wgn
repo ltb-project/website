@@ -203,10 +203,10 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr id="self_service_password">
                                                         <td>Self Service Password</td>
-                                                        <td><a href="archives/ltb-project-self-service-password-1.4.3.tar.gz">1.4.3</a></td>
-                                                        <td><a href="archives/self-service-password_1.4.3-1_all.deb">1.4.3</a></td>
-                                                        <td><a href="archives/self-service-password-1.4.3-1.el7.noarch.rpm">1.4.3</a></td>
-                                                        <td><a href="archives/self-service-password-1.4.3-1.el8.noarch.rpm">1.4.3</a></td>
+                                                        <td><a href="archives/ltb-project-self-service-password-1.4.4.tar.gz">1.4.4</a></td>
+                                                        <td><a href="archives/self-service-password_1.4.4-1_all.deb">1.4.4</a></td>
+                                                        <td><a href="archives/self-service-password-1.4.4-1.el7.noarch.rpm">1.4.4</a></td>
+                                                        <td><a href="archives/self-service-password-1.4.4-1.el8.noarch.rpm">1.4.4</a></td>
                                                     </tr>
                                                     <tr id="white_pages">
                                                         <td>White Pages</td>
