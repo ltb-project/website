@@ -187,7 +187,7 @@ og_description: Archives and packages for LDAP Tool Box components
 
                                     <section>
                                         <h3 class="major" id="web_interfaces">Web interfaces</h3>
-                                        <p><em>Read <a href="documentation/">documentation</a> to use LTB project apt and yum repository</em></p>
+                                        <p><em>Read <a href="https://self-service-password.readthedocs.io/en/latest/installation.html">documentation</a> to use LTB project apt and yum repository</em></p>
 
                                         <div class="table-wrapper">
                                             <table>
