@@ -179,7 +179,7 @@ og_description: Archives and packages for LDAP Tool Box components
                                     <section>
                                         <h3 class="major" id="monitoring">Monitoring</h3>
                                         <ul>
-                                            <li>Nagios plugins: <a href="archives/ltb-project-nagios-plugins-0.8.tar.gz">version 0.8</a></li>
+                                            <li>Nagios plugins: <a href="archives/ltb-project-nagios-plugins-0.9.tar.gz">version 0.9</a></li>
                                             <li>Cacti plugins: <a href="archives/ltb-project-cacti-plugins-0.3.tar.gz">version 0.3</a></li>
                                         </ul>
 
