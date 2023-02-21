@@ -83,7 +83,6 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <thead>
                                                     <tr>
                                                         <th></th>
-                                                        <th>2.4</th>
                                                         <th>2.5 (LTS)</th>
                                                         <th>2.6</th>
                                                     </tr>
@@ -91,7 +90,6 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td></td>
                                                         <td><a href="archives/openldap-ltb-2.5.14-bullseye-64.tar.gz">2.5.14</a></td>
                                                         <td><a href="archives/openldap-ltb-2.6.4-bullseye-64.tar.gz">2.6.4</a></td>
                                                     </tr>
