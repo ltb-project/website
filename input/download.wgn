@@ -110,7 +110,7 @@ og_description: Archives and packages for LDAP Tool Box components
 
                                         <h5>CentOS/RHEL 7</h5>
                                         <div class="table-wrapper">
-                                            <table> 
+                                            <table>
                                                 <thead>
                                                     <tr>
                                                         <th></th>
@@ -123,8 +123,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     <tr>
                                                         <td>OpenLDAP</td>
                                                         <td><a href="archives/openldap-ltb-2.4.59-el7-64.tar.gz">2.4.59</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.5.13-el7-64.tar.gz">2.5.13</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.3-el7-64.tar.gz">2.6.3</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.14-el7-64.tar.gz">2.5.14</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.4-el7-64.tar.gz">2.6.4</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Dependencies</td>
@@ -133,12 +133,12 @@ og_description: Archives and packages for LDAP Tool Box components
                                                         <td></td>
                                                     </tr>
                                                 </tbody>
-                                            </table> 
+                                            </table>
                                         </div>
  
                                         <h5>CentOS/RHEL 8</h5>
                                         <div class="table-wrapper">
-                                            <table> 
+                                            <table>
                                                 <thead>
                                                     <tr>
                                                         <th></th>
@@ -151,8 +151,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     <tr>
                                                         <td>OpenLDAP</td>
                                                         <td><a href="archives/openldap-ltb-2.4.59-el8-64.tar.gz">2.4.59</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.5.13-el8-64.tar.gz">2.5.13</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.3-el8-64.tar.gz">2.6.3</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.14-el8-64.tar.gz">2.5.14</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.4-el8-64.tar.gz">2.6.4</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Dependencies</td>
@@ -161,7 +161,32 @@ og_description: Archives and packages for LDAP Tool Box components
                                                         <td></td>
                                                     </tr>
                                                 </tbody>
-                                            </table> 
+                                            </table>
+                                        </div>
+
+                                        <h5>CentOS/RHEL 9</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.5 (LTS)</th>
+                                                        <th>2.6</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.5.14-el9-64.tar.gz">2.5.14</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.4-el9-64.tar.gz">2.6.4</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Dependencies</td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
                                         </div>
 
                                     <h4>Slapd CLI</h4>
