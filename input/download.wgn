@@ -232,11 +232,11 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     </tr>
                                                     <tr id="service_desk">
                                                         <td>Service Desk</td>
-                                                        <td><a href="archives/ltb-project-service-desk-0.4.tar.gz">0.4</a></td>
-                                                        <td><a href="archives/service-desk_0.4-1_all.deb">0.4</a></td>
-                                                        <td><a href="archives/service-desk-0.4-1.el7.noarch.rpm">0.4</a></td>
-                                                        <td><a href="archives/service-desk-0.4-1.el8.noarch.rpm">0.4</a></td>
-                                                        <td></td>
+                                                        <td><a href="archives/ltb-project-service-desk-0.5.tar.gz">0.5</a></td>
+                                                        <td><a href="archives/service-desk_0.5-1_all.deb">0.5</a></td>
+                                                        <td><a href="archives/service-desk-0.5-1.el7.noarch.rpm">0.5</a></td>
+                                                        <td><a href="archives/service-desk-0.5-1.el8.noarch.rpm">0.5</a></td>
+                                                        <td><a href="archives/service-desk-0.5-1.el9.noarch.rpm">0.5</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
