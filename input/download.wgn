@@ -224,11 +224,11 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     </tr>
                                                     <tr id="white_pages">
                                                         <td>White Pages</td>
-                                                        <td><a href="archives/ltb-project-white-pages-0.3.tar.gz">0.3</a></td>
-                                                        <td><a href="archives/white-pages_0.3-1_all.deb">0.3</a></td>
-                                                        <td><a href="archives/white-pages-0.3-1.el7.noarch.rpm">0.3</a></td>
-                                                        <td><a href="archives/white-pages-0.3-1.el8.noarch.rpm">0.3</a></td>
-                                                        <td></td>
+                                                        <td><a href="archives/ltb-project-white-pages-0.4.tar.gz">0.4</a></td>
+                                                        <td><a href="archives/white-pages_0.4-1_all.deb">0.4</a></td>
+                                                        <td><a href="archives/white-pages-0.4-1.el7.noarch.rpm">0.4</a></td>
+                                                        <td><a href="archives/white-pages-0.4-1.el8.noarch.rpm">0.4</a></td>
+                                                        <td><a href="archives/white-pages-0.4-1.el9.noarch.rpm">0.4</a></td>
                                                     </tr>
                                                     <tr id="service_desk">
                                                         <td>Service Desk</td>
