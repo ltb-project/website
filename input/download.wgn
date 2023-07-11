@@ -21,57 +21,21 @@ og_description: Archives and packages for LDAP Tool Box components
                                         <h4 id="packages_for_debianubuntu">Packages for Debian/Ubuntu</h4>
                                         <p><em>Read <a href="documentation/">documentation</a> to use LTB project apt repository</em></p>
 
-                                        <h5>Stretch (Debian 9)</h5>
-                                        <div class="table-wrapper">
-                                            <table> 
-                                                <thead>
-                                                    <tr>
-                                                        <th></th>
-                                                        <th>2.4</th>
-                                                        <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr>
-                                                        <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.4.59-stretch-64.tar.gz">2.4.59</a></td>
-                                                        <td></td>
-                                                        <td></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Dependencies</td>
-                                                        <td><a href="archives/berkeleydb-ltb-4.6.21-stretch-64.tar.gz">BerkeleyDB 4.6.21</a></td>
-                                                        <td></td>
-                                                        <td></td>
-                                                    </tr>
-                                                </tbody>
-                                            </table> 
-                                        </div>
-
                                         <h5>Buster (Debian 10)</h5>
                                         <div class="table-wrapper">
                                             <table> 
                                                 <thead>
                                                     <tr>
                                                         <th></th>
-                                                        <th>2.4</th>
                                                         <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
+                                                        <th>2.6 (feature release)</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.4.59-buster-64.tar.gz">2.4.59</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.5.14-buster-64.tar.gz">2.5.14</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.4-buster-64.tar.gz">2.6.4</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Dependencies</td>
-                                                        <td><a href="archives/berkeleydb-ltb-2.4.47-buster-testing-64.tar.gz">BerkeleyDB 4.6.21</a></td>
-                                                        <td></td>
-                                                        <td></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-buster-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-buster-64.tar.gz">2.6.5</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -84,14 +48,33 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     <tr>
                                                         <th></th>
                                                         <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
+                                                        <th>2.6 (feature release)</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.14-bullseye-64.tar.gz">2.5.14</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.4-bullseye-64.tar.gz">2.6.4</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-bullseye-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-bullseye-64.tar.gz">2.6.5</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <h5>Bookworm (Debian 12)</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.5 (LTS)</th>
+                                                        <th>2.6 (feature release)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-bookworm-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-bookworm-64.tar.gz">2.6.5</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -106,21 +89,18 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <thead>
                                                     <tr>
                                                         <th></th>
-                                                        <th>2.4</th>
                                                         <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
+                                                        <th>2.6 (feature release)</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.4.59-el7-64.tar.gz">2.4.59</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.5.14-el7-64.tar.gz">2.5.14</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.4-el7-64.tar.gz">2.6.4</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-el7-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-el7-64.tar.gz">2.6.5</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Dependencies</td>
-                                                        <td><a href="archives/berkeleydb-ltb-4.6.21.NC-4.el7.patch4.x86_64.rpm">BerkeleyDB 4.6.21</a></td>
                                                         <td><a href="archives/libevent-ltb-2.1.12-1.el7.x86_64.rpm">libevent 2.1.12</a></td>
                                                         <td></td>
                                                     </tr>
@@ -134,23 +114,15 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <thead>
                                                     <tr>
                                                         <th></th>
-                                                        <th>2.4</th>
                                                         <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
+                                                        <th>2.6 (feature release)</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.4.59-el8-64.tar.gz">2.4.59</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.5.14-el8-64.tar.gz">2.5.14</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.4-el8-64.tar.gz">2.6.4</a></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Dependencies</td>
-                                                        <td><a href="archives/berkeleydb-ltb-4.6.21.NC-4-el8-64.tar.gz">BerkeleyDB 4.6.21</a></td>
-                                                        <td></td>
-                                                        <td></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-el8-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-el8-64.tar.gz">2.6.5</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -163,14 +135,14 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     <tr>
                                                         <th></th>
                                                         <th>2.5 (LTS)</th>
-                                                        <th>2.6</th>
+                                                        <th>2.6 (feature release)</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.14-el9-64.tar.gz">2.5.14</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.4-el9-64.tar.gz">2.6.4</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.15-el9-64.tar.gz">2.5.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.5-el9-64.tar.gz">2.6.5</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
