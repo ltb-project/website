@@ -178,7 +178,7 @@ og_description: Archives and packages for LDAP Tool Box components
 
                                     <h4>Slapd CLI</h4>
                                     <ul>
-                                        <li>Slapd CLI: <a href="archives/slapd-cli-3.0.tar.gz">version 3.0</a></li>
+                                        <li>Slapd CLI: <a href="archives/slapd-cli-3.1.tar.gz">version 3.1</a></li>
                                     </ul>
 
                                     <h4>Ansible role for OpenLDAP-LTB</h4>
