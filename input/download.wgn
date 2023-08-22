@@ -34,8 +34,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-buster-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-buster-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-buster-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-buster-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -54,8 +54,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-bullseye-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-bullseye-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-bullseye-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-bullseye-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -73,8 +73,46 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-bookworm-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-bookworm-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-bookworm-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-bookworm-64.tar.gz">2.6.6</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <h5>Trixie (Debian 13) (sid)</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.5 (LTS)</th>
+                                                        <th>2.6 (feature release)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-trixie-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-trixie-64.tar.gz">2.6.6</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <h5>Jammy (Ubuntu 22.04 LTS)</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.5 (LTS)</th>
+                                                        <th>2.6 (feature release)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-jammy-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-jammy-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
