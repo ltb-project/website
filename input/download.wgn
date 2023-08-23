@@ -134,8 +134,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-el7-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-el7-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-el7-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-el7-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Dependencies</td>
@@ -159,8 +159,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-el8-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-el8-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-el8-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-el8-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -179,8 +179,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.15-el9-64.tar.gz">2.5.15</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.5-el9-64.tar.gz">2.6.5</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.16-el9-64.tar.gz">2.5.16</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.6-el9-64.tar.gz">2.6.6</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
