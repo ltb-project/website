@@ -34,8 +34,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-buster-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-buster-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-buster-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-buster-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -54,8 +54,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-bullseye-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-bullseye-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-bullseye-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-bullseye-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -73,8 +73,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-bookworm-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-bookworm-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-bookworm-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-bookworm-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -92,8 +92,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-trixie-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-trixie-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-trixie-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-trixie-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -111,8 +111,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-jammy-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-jammy-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-jammy-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-jammy-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -134,8 +134,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-el7-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-el7-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-el7-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-el7-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                     <tr>
                                                         <td>Dependencies</td>
@@ -159,8 +159,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-el8-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-el8-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-el8-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-el8-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -179,8 +179,8 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 <tbody>
                                                     <tr>
                                                         <td>OpenLDAP</td>
-                                                        <td><a href="archives/openldap-ltb-2.5.18-el9-64.tar.gz">2.5.18</a></td>
-                                                        <td><a href="archives/openldap-ltb-2.6.8-el9-64.tar.gz">2.6.8</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.5.19-el9-64.tar.gz">2.5.19</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.6.9-el9-64.tar.gz">2.6.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -188,7 +188,7 @@ og_description: Archives and packages for LDAP Tool Box components
 
                                     <h4>Slapd CLI</h4>
                                     <ul>
-                                        <li>Slapd CLI: <a href="archives/slapd-cli-3.4.tar.gz">version 3.4</a></li>
+                                        <li>Slapd CLI: <a href="archives/slapd-cli-3.5.tar.gz">version 3.5</a></li>
                                     </ul>
 
                                     <h4>Ansible role for OpenLDAP-LTB</h4>
