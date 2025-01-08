@@ -62,6 +62,7 @@ og_description: Contact information for LDAP Tool Box project
                                     <h3 class="major">Social networks and news</h3>
                                     <ul class="alt">
                                         <li class="icon brands fa-mastodon"><a href="https://floss.social/@ltb_project" target="_blank"> floss.social/@ltb_project</a></li>
+                                        <li class="icon brands fa-linkedin"><a href="https://www.linkedin.com/company/ltb-project" target="_blank"> linkedin.com/company/ltb-project</a></li>
                                         <li class="icon brands"><a href="https://alternativeto.net/software/ldap-tool-box-self-service-password/about/" target="_blank"> AlternativeTo - Self Service Password</a></li>
                                         <li class="icon brands"><a href="https://alternativeto.net/software/ldap-tool-box-self-white-pages/about/" target="_blank"> AlternativeTo - White Pages</a></li>
                                         <li class="icon brands"><a href="https://comptoir-du-libre.org/fr/softwares/102" target="_blank"> Comptoir du Libre - Self Service Password</a></li>
