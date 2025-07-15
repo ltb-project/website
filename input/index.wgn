@@ -52,7 +52,6 @@ header-class: alt
                                         <h2 class="major">Community</h2>
                                         <p><strong>Core team</strong> David COUTADEUR, Clément OUDOT</p>
                                         <p><strong>Past contributors</strong> Thomas CHEMINEAU, Jonathan CLARKE, Raphaël OUAZANA</p>
-                                        <p>LTB project won <a href="https://www.ow2con.org/view/2021/Awards_Results" target="_blank">OW2Con'21 Community Award</a></p>
                                         <ul class="actions">
                                             <li><a href="https://projects.ow2.org/view/ldaptoolbox/" target="_blank" class="button icon solid fa-info-circle">View project on OW2</a></li>
                                             <li><a href="https://github.com/ltb-project/" target="_blank" class="button primary icon solid fa-github">Contribute on Github</a></li>
@@ -60,5 +59,20 @@ header-class: alt
                                     </div>
                                 </div>
                             </section>
+
+                            <section id="four" class="wrapper alt spotlight style4">
+                                <div class="inner">
+                                    <a href="#" class="image"><img src="images/award.jpg" alt="awards" /></a>
+                                    <div class="content">
+                                        <h2 class="major">Awards</h2>
+                                        <ul>
+                                            <li><a href="https://www.ow2con.org/view/2021/Awards_Results" target="_blank">OW2Con'21 Community Award</a> for all the project</li>
+                                            <li><a href="https://www.ow2con.org/view/2025/Awards_Results" target="_blank">OW2Con'25 Technology Award</a> for Service Desk</li>
+                                        </ul>
+                                        <img src="images/OW2con25AwardsSmall.png" alt="OW2con25 Award" />
+                                    </div>
+                                </div>
+                            </section>
+
 
                     </section>
