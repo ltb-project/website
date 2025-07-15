@@ -65,7 +65,7 @@ header-class: alt
                                     <a href="#" class="image"><img src="images/award.jpg" alt="awards" /></a>
                                     <div class="content">
                                         <h2 class="major">Awards</h2>
-                                        <ul>
+                                        <ul class="alt">
                                             <li><a href="https://www.ow2con.org/view/2021/Awards_Results" target="_blank">OW2Con'21 Community Award</a> for all the project</li>
                                             <li><a href="https://www.ow2con.org/view/2025/Awards_Results" target="_blank">OW2Con'25 Technology Award</a> for Service Desk</li>
                                         </ul>
