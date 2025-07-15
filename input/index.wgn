@@ -54,7 +54,7 @@ header-class: alt
                                         <p><strong>Past contributors</strong> Thomas CHEMINEAU, Jonathan CLARKE, Raphaël OUAZANA</p>
                                         <ul class="actions">
                                             <li><a href="https://projects.ow2.org/view/ldaptoolbox/" target="_blank" class="button icon solid fa-info-circle">View project on OW2</a></li>
-                                            <li><a href="https://github.com/ltb-project/" target="_blank" class="button primary icon solid fa-github">Contribute on Github</a></li>
+                                            <li><a href="https://github.com/ltb-project/" target="_blank" class="button primary icon solid fa-star">Contribute on Github</a></li>
                                         </ul>
                                     </div>
                                 </div>
