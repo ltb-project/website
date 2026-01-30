@@ -254,16 +254,17 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     </tr>
                                                     <tr id="white_pages">
                                                         <td>White Pages</td>
-                                                        <td><a href="archives/ltb-project-white-pages-0.4.tar.gz">0.4</a></td>
-                                                        <td><a href="archives/white-pages_0.4-2_all.deb">0.4</a></td>
-                                                        <td><a href="archives/white-pages-0.4-2.el7.noarch.rpm">0.4</a></td>
-                                                        <td><a href="archives/white-pages-0.4-2.el8.noarch.rpm">0.4</a></td>
-                                                        <td><a href="archives/white-pages-0.4-2.el9.noarch.rpm">0.4</a></td>
+                                                        <td><a href="archives/ltb-project-white-pages-0.5.tar.gz">0.5</a></td>
+                                                        <td><a href="archives/white-pages_0.5-1_all.deb">0.5</a></td>
+                                                        <td></td>
+                                                        <td><a href="archives/white-pages-0.5-1.el8.noarch.rpm">0.5</a></td>
+                                                        <td><a href="archives/white-pages-0.5-1.el9.noarch.rpm">0.5</a></td>
                                                     </tr>
                                                     <tr id="service_desk">
                                                         <td>Service Desk</td>
                                                         <td><a href="archives/ltb-project-service-desk-0.8.tar.gz">0.8</a></td>
                                                         <td><a href="archives/service-desk_0.8-1_all.deb">0.8</a></td>
+                                                        <td></td>
                                                         <td><a href="archives/service-desk-0.8-1.el8.noarch.rpm">0.8</a></td>
                                                         <td><a href="archives/service-desk-0.8-1.el9.noarch.rpm">0.8</a></td>
                                                     </tr>
