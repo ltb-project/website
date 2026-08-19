@@ -280,11 +280,11 @@ og_description: Archives and packages for LDAP Tool Box components
                                                     </tr>
                                                     <tr id="service_desk">
                                                         <td>Service Desk</td>
-                                                        <td><a href="archives/ltb-project-service-desk-0.8.tar.gz">0.8</a></td>
-                                                        <td><a href="archives/service-desk_0.8-1_all.deb">0.8</a></td>
+                                                        <td><a href="archives/ltb-project-service-desk-0.9.tar.gz">0.9</a></td>
+                                                        <td><a href="archives/service-desk_0.9-1_all.deb">0.9</a></td>
                                                         <td></td>
-                                                        <td><a href="archives/service-desk-0.8-1.el8.noarch.rpm">0.8</a></td>
-                                                        <td><a href="archives/service-desk-0.8-1.el9.noarch.rpm">0.8</a></td>
+                                                        <td><a href="archives/service-desk-0.9-1.el8.noarch.rpm">0.9</a></td>
+                                                        <td><a href="archives/service-desk-0.9-1.el9.noarch.rpm">0.9</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
