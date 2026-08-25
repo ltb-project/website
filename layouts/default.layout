@@ -10,13 +10,14 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/ltb.css" />
         <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
         <meta name="description" content="LDAP Tool Box project provides tools for LDAP administrators">
         <meta name="keywords" content="LDAP,OpenLDAP,packages,scripts,monitoring,self service,password">
 
         <meta property="og:title" content="LDAP Tool Box - <!-- tmpl_var name='title' escape='html' -->" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://ltb-project.org/images/ltb-opengraph.png" />
+        <meta property="og:image" content="https://ltb-project.org/images/ltb_logo_square.png" />
         <!-- tmpl_if name='og_description' -->
         <meta property="og:description" content="<!-- tmpl_var name='og_description' -->" />
         <!-- tmpl_else -->

@@ -5,7 +5,7 @@ header-class: alt
                 <!-- Banner -->
                     <section id="banner">
                         <div class="inner">
-                            <div class="logo"><img src="images/ltb-logo.png" alt="LTB logo" /></div>
+                            <div class="logo"><img src="images/ltb_icon_white.png" alt="LTB logo" /></div>
                             <h2>LDAP Tool Box project</h2>
                             <p>Because even LDAP administrators need help</p>
                         </div>
