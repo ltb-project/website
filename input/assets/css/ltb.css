@@ -3,6 +3,13 @@ html, body {
   background-image: radial-gradient(at 43.4% 56%, #356f56 0px, transparent 70%), radial-gradient(at 64% 8%, #3dddb4 0px, transparent 70%), radial-gradient(at 70% 58.8%, #23ce6b 0px, transparent 70%), radial-gradient(at 19.5% 42.8%, #8bee61 0px, transparent 70%), radial-gradient(at 6% 96%, #b7ee46 0px, transparent 50%), url(../../images/ltb_tile_1080p.svg);
 }
 
+@media screen and (max-width: 1280px) {
+  #banner, #wrapper > header, #footer {
+    background : #356f56;
+    background-image: radial-gradient(at 43.4% 56%, #356f56 0px, transparent 70%), radial-gradient(at 64% 8%, #3dddb4 0px, transparent 70%), radial-gradient(at 70% 58.8%, #23ce6b 0px, transparent 70%), radial-gradient(at 19.5% 42.8%, #8bee61 0px, transparent 70%), radial-gradient(at 6% 96%, #b7ee46 0px, transparent 50%), url(../../images/ltb_tile_1080p.svg);
+  }
+}
+
 header h2, #banner h2 {
   -webkit-text-stroke: 1px #356f56;
 }
