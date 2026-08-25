@@ -23,6 +23,8 @@
         <!-- tmpl_else -->
         <meta property="og:description" content="LDAP Tool Box project provides tools for LDAP administrators" />
         <!-- /tmpl_if -->
+        <link href="images/ltb_icon_gradient.png" rel="icon" type="image/x-icon" />
+        <link href="images/ltb_icon_gradient.png" rel="shortcut icon" />
     </head>
     <body class="is-preload">
 
