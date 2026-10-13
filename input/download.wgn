@@ -85,7 +85,7 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 </tbody>
                                             </table>
                                         </div>
-                                        <h5>Trixie (Debian 13) (sid)</h5>
+                                        <h5>Trixie (Debian 13)</h5>
                                         <div class="table-wrapper">
                                             <table>
                                                 <thead>
@@ -102,6 +102,25 @@ og_description: Archives and packages for LDAP Tool Box components
                                                         <td><a href="archives/openldap-ltb-2.5.20-trixie-64.tar.gz">2.5.20</a></td>
                                                         <td><a href="archives/openldap-ltb-2.6.15-trixie-64.tar.gz">2.6.15</a></td>
                                                         <td><a href="archives/openldap-ltb-2.7.1-trixie-64.tar.gz">2.7.1</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <h5>Forky (Debian 14) (sid)</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.6 (LTS)</th>
+                                                        <th>2.7 (feature release)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.6.15-forky-64.tar.gz">2.6.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.7.1-forky-64.tar.gz">2.7.1</a></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
