@@ -146,6 +146,25 @@ og_description: Archives and packages for LDAP Tool Box components
                                                 </tbody>
                                             </table>
                                         </div>
+                                        <h5>Jammy (Ubuntu 26.04 LTS)</h5>
+                                        <div class="table-wrapper">
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th></th>
+                                                        <th>2.6 (LTS)</th>
+                                                        <th>2.7 (feature release)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>OpenLDAP</td>
+                                                        <td><a href="archives/openldap-ltb-2.6.15-resolute-64.tar.gz">2.6.15</a></td>
+                                                        <td><a href="archives/openldap-ltb-2.7.1-resolute-64.tar.gz">2.7.1</a></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
 
                                         <h4 id="packages_for_red_hatcentos">Packages for Red Hat/CentOS</h4>
                                         <p><em>Read <a href="documentation/">documentation</a> to use LTB project yum repository</em></p>
